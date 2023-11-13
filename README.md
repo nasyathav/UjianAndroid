@@ -1,7 +1,7 @@
 # APLIKASI ANDROID
-###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview edited by Syafira
+###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview edited by Nasyatha
 
 ### Dibuat Oleh :
-##### Syafira Difa Lutfiyani
+##### Nasyatha Vitra Setiyadi
 ### NIM
-##### G.111.22.0005
+##### G.111.22.0011
