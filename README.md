@@ -3,5 +3,3 @@
 
 ### Dibuat Oleh :
 ##### Nasyatha Vitra Setiyadi
-### NIM
-##### G.111.22.0011
